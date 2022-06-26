@@ -1,2 +1,2 @@
-# Bengaluru_House_Price_Analysis
+# house-price-analysis
 House Price Analysis based on Location and Sqft
